@@ -1,3 +1,7 @@
 
 *.tmp          # exclude all files with .tmp extension  
+
+
+
+
 /[Tt]emp/           # exclude folder named temp 
